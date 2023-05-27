@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_chat import message
+from streamlit-chat import message
 
 st.title('EasyLanguage')
 
